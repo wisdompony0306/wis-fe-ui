@@ -1,0 +1,11 @@
+{
+  "name": "bottom-btn-hide-input",
+  "version": "1.0.0",
+  "description": "按钮在用户输入时隐藏",
+  "main": "index.js",
+  "scripts": {
+    "build_iphone-x-bottom-btn": "node ../../build/build.js bottom-btn-hide-input"
+  },
+  "author": "zhangzhijun",
+  "license": "ISC"
+}
